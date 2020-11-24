@@ -4,7 +4,7 @@ This is a fake bouncing CD logo program, as part of a coding challenge from  Ami
 This program had me writing 58 lines of code (there are 87 lines total, but a lot of boilerplate created by unity).
 
 I had to be knowledgeable of the 
-  - basic unity game camera
+  - basic Unity game camera
   - conversion of local to world coordinates/scales
   - vectors (though all calculations are handled in unity mehtods)
   - Unity's spriterenderer component and Color system
