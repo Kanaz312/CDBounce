@@ -1,7 +1,7 @@
 # CDBounce
 This is a fake bouncing CD logo program, as part of a coding challenge from  Amir Rajan.
 
-This program had me writing 58 lines of code (there are 87 lines total, but a lot of boilerplate created by unity).
+This program had me writing 58 lines of code (there are 87 lines total, but a lot of boilerplate created by Unity).
 
 I had to be knowledgeable of the 
   - basic Unity game camera
